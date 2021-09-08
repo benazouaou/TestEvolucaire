@@ -19,6 +19,7 @@
     "wdio-chromedriver-service": "^7.2.0",
     "allure-commandline": "^2.13.8",
     "@wdio/allure-reporter": "7.10.0",
-    "@wdio/sync": "^7.10.0"
+    
   }
+
 }
